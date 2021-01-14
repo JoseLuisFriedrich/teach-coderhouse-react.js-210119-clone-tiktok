@@ -1,0 +1,74 @@
+{
+  "feed": [
+    {
+      "video": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/videos/01.MP4",
+      "profile": "joseluis.f.jpg",
+      "user": "@joseluis.f",
+      "likes": 244,
+      "comments": 433,
+      "shared": 113,
+      "description": "So peaceful countryside, be quiet and find yourself back #travel #tiktoktravel",
+      "song": "Guns N' Roses - November Rain"
+    },
+    {
+      "video": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/videos/02.MP4",
+      "profile": "virginia.c.jpg",
+      "user": "@virginia.c",
+      "likes": 1923,
+      "comments": 823,
+      "shared": 344,
+      "description": "Happy 1st of Fall, what is your favourite season?",
+      "song": "Rammstein - Heirate Mich"
+    },
+    {
+      "video": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/videos/03.MP4",
+      "profile": "ariel.b.jpg",
+      "user": "@ariel.b",
+      "likes": 698,
+      "comments": 332,
+      "shared": 813,
+      "description": "No music needed #paradise #maui #hawaii #travelmore #gopro #beach",
+      "song": "Babylon A.D. - Desperate"
+    },
+    {
+      "video": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/videos/04.MP4",
+      "profile": "anabelen.b.jpg",
+      "user": "@anabelen.b",
+      "likes": 749,
+      "comments": 399,
+      "shared": 103,
+      "description": "Moraine Lake, Canada #travel #banff #canada #awesome",
+      "song": "Metallica - The Wait"
+    },
+    {
+      "video": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/videos/05.MP4",
+      "profile": "andres.p.jpg",
+      "user": "@andres.p",
+      "likes": 284,
+      "comments": 438,
+      "shared": 204,
+      "description": "This resort we stayed at in Mexico is insane! #xcaret #mexico #playadelcarmen",
+      "song": "Mötley Crüe - Looks That Kill"
+    },
+    {
+      "video": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/videos/06.MP4",
+      "profile": "agustina.p.jpg",
+      "user": "@agustina.p",
+      "likes": 793,
+      "comments": 965,
+      "shared": 477,
+      "description": "Sunrise in #Switzerland at Hotel Villa Honegg #travel #beautiful",
+      "song": "Def Leppard - Love Bites"
+    },
+    {
+      "video": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/videos/07.MP4",
+      "profile": "joseluis.f.jpg",
+      "user": "@adriana.a",
+      "likes": 813,
+      "comments": 710,
+      "shared": 101,
+      "description": "The frozen falls #niagarafallscanada #travel #niagara #falls #canada",
+      "song": "W.A.S.P. - The Idol"
+    }
+  ]
+}
