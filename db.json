@@ -1,8 +1,9 @@
 {
   "feed": [
     {
-      "video": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/videos/01.MP4",
-      "profile": "joseluis.f.jpg",
+      "id": 1,
+      "url": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/videos/01.MP4",
+      "profile": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/images/joseluis.f.jpg",
       "user": "@joseluis.f",
       "likes": 244,
       "comments": 433,
@@ -11,8 +12,9 @@
       "song": "Guns N' Roses - November Rain"
     },
     {
-      "video": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/videos/02.MP4",
-      "profile": "virginia.c.jpg",
+      "id": 2,
+      "url": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/videos/02.MP4",
+      "profile": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/images/virginia.c.jpg",
       "user": "@virginia.c",
       "likes": 1923,
       "comments": 823,
@@ -21,8 +23,9 @@
       "song": "Rammstein - Heirate Mich"
     },
     {
-      "video": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/videos/03.MP4",
-      "profile": "ariel.b.jpg",
+      "id": 3,
+      "url": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/videos/03.MP4",
+      "profile": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/images/ariel.b.jpg",
       "user": "@ariel.b",
       "likes": 698,
       "comments": 332,
@@ -31,8 +34,9 @@
       "song": "Babylon A.D. - Desperate"
     },
     {
-      "video": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/videos/04.MP4",
-      "profile": "anabelen.b.jpg",
+      "id": 4,
+      "url": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/videos/04.MP4",
+      "profile": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/images/anabelen.b.jpg",
       "user": "@anabelen.b",
       "likes": 749,
       "comments": 399,
@@ -41,8 +45,9 @@
       "song": "Metallica - The Wait"
     },
     {
-      "video": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/videos/05.MP4",
-      "profile": "andres.p.jpg",
+      "id": 5,
+      "url": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/videos/05.MP4",
+      "profile": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/images/andres.p.jpg",
       "user": "@andres.p",
       "likes": 284,
       "comments": 438,
@@ -51,8 +56,9 @@
       "song": "Mötley Crüe - Looks That Kill"
     },
     {
-      "video": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/videos/06.MP4",
-      "profile": "agustina.p.jpg",
+      "id": 6,
+      "url": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/videos/06.MP4",
+      "profile": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/images/agustina.p.jpg",
       "user": "@agustina.p",
       "likes": 793,
       "comments": 965,
@@ -61,8 +67,9 @@
       "song": "Def Leppard - Love Bites"
     },
     {
-      "video": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/videos/07.MP4",
-      "profile": "joseluis.f.jpg",
+      "id": 7,
+      "url": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/videos/07.MP4",
+      "profile": "https://raw.githubusercontent.com/JoseLuisFriedrich/coder-react.js-2021-01-19-clone-tiktok/master/public/images/joseluis.f.jpg",
       "user": "@adriana.a",
       "likes": 813,
       "comments": 710,
