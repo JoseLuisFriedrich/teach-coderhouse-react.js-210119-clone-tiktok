@@ -1,9 +1,9 @@
 
 https://youtu.be/ZKYcJ8RRuCA
 
-[![José Luis Friedrich](https://img.youtube.com/vi/ZKYcJ8RRuCA/0.jpg)](https://youtu.be/ZKYcJ8RRuCA)
-
 [![José Luis Friedrich](preview.gif)](https://youtu.be/ZKYcJ8RRuCA)
+
+[![José Luis Friedrich](https://img.youtube.com/vi/ZKYcJ8RRuCA/0.jpg)](https://youtu.be/ZKYcJ8RRuCA)
 
 # Clone TikTok
 
