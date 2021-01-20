@@ -7,7 +7,7 @@ https://youtu.be/ZKYcJ8RRuCA
 
 00:00:00 🕑 Nada interesante
 
-00:03:00 ✔️ Consulta respecto al desafío
+00:03:00 👀 Consulta respecto al desafío
 
 00:11:00 ✔️ Explicando ejercicio a realizar (app integrador)
 

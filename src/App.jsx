@@ -17,30 +17,6 @@ const App = () => {
 
 export default App
 
-//Prerequisito
-
-// npm i sass react-ticker react-intersection-observer
-
-// Componentes
-// ProfileWidget                                        CartWidget
-// Icon
-// NavBar, Footer                                       NavBar
-// VideoListContainer -> Fetch                          ItemListContainer
-// VideoList -> map de los datos fetch                  ItemList
-// Video (VideoFooter, VideoSideBar) -> Video           Item
-
-// Relaciones
-
-// App
-// ✔️     NavBar
-// ✔️    VideoListContainer
-// ✔️         VideoList
-// ✔️             Video
-// ✔️                 ProfileWidget
-// ✔️                 Icon
-// ✔️     Footer
-// ✔️         Icon
-
 //////////////////
 // CLONE TIKTOK //
 //////////////////
@@ -55,21 +31,21 @@ export default App
 // ✔️ props de datos
 // ✔️ props de eventos (abstracción)
 // ✔️ useState, useEffect, useEffect con dependencias
-// ✔️ fetch a api externa (o promise)
+// ✔️ fetch a api externa
 // ✔️ map
 
 ///////////
 // Extra //
 ///////////
 
-// ✔️ customHook useFetch
+// ✔️ useRef
 
 ///////////////
 // TimeStamp //
 ///////////////
 
 // 00:00:00 🕑 Nada interesante
-// 00:03:00 ✔️ Consulta respecto al desafío
+// 00:03:00 👀 Consulta respecto al desafío
 // 00:11:00 ✔️ Explicando ejercicio a realizar (app integrador)
 // 00:12:00 ✔️ Pensando componentes de la app (componentes)
 // 00:18:00 ✔️ Relación entre componentes
@@ -92,3 +68,35 @@ export default App
 // 01:23:00 ✔️ Extra Class (useRef)
 // 01:29:00 ✔️ Cambiar estado a state de objeto y mostrarlo en pantalla (set useState {})
 // 01:35:00 🍺 Nada interesante
+
+////////////////////
+// Pre-Requisitos //
+////////////////////
+
+// npm i sass react-ticker react-intersection-observer
+// font-awesome (tradicional)
+
+/////////////////
+// Componentes //
+/////////////////
+
+// ProfileWidget                                        CartWidget
+// Icon
+// NavBar, Footer                                       NavBar
+// VideoListContainer -> Fetch                          ItemListContainer
+// VideoList -> map de los datos fetch                  ItemList
+// Video (VideoFooter, VideoSideBar) -> Video           Item
+
+////////////////
+// Relaciones //
+////////////////
+
+// App.js
+// ✔️    NavBar
+// ✔️    VideoListContainer
+// ✔️         VideoList
+// ✔️             Video
+// ✔️                 ProfileWidget
+// ✔️                 Icon
+// ✔️    Footer
+// ✔️         Icon
