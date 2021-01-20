@@ -1,70 +1,54 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://youtu.be/ZKYcJ8RRuCA
 
-## Available Scripts
+[![José Luis Friedrich](https://img.youtube.com/vi/ZKYcJ8RRuCA/0.jpg)](https://youtu.be/ZKYcJ8RRuCA)
 
-In the project directory, you can run:
+# Clone TikTok
 
-### `npm start`
+00:00:00 🕑 Nada interesante
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+00:03:00 ✔️ Consulta respecto al desafío
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+00:11:00 ✔️ Explicando ejercicio a realizar (app integrador)
 
-### `npm test`
+00:12:00 ✔️ Pensando componentes de la app (componentes)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+00:18:00 ✔️ Relación entre componentes
 
-### `npm run build`
+00:21:00 ✔️ Creación de esqueleto de componentes (estructura de carpetas)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+00:26:00 ✔️ Prerequisitos (npm install)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+00:29:00 ✔️ Implementación NavBar
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+00:30:00 ✔️ Implementación Icon (componente con Callback)
 
-### `npm run eject`
+00:33:00 ✔️ Implementación Footer (utilización componente con callback)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+00:38:00 💀 Donde dije ItemDetailContainer quise decir ItemDetail
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+00:40:00 ✔️ Implementación VideoListContainer (useState, useEffect, fetch, props)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+00:49:00 ✔️ Implementación VideoList (map, props)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+00:52:00 💩 Típico error si no inicializan el state con un valor default
 
-## Learn More
+00:54:00 ✔️ Video (debería separarse en Video, VideoFooter y VideoSideBar)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+00:59:00 ✔️ ProfileWidget (props)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+01:03:00 ✔️ Fix SnapScrollbar
 
-### Code Splitting
+01:06:00 ✔️ Consulta respecto al flick por renderizar componentes antes de recibir datos del fetch
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+01:10:00 👀 Consulta respecto al desafío
 
-### Analyzing the Bundle Size
+01:18:00 ✔️ Intersection observer pattern
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+01:23:00 😖 Quise decir al montar y al cambiar estado del inView, no al montar y desmontar
 
-### Making a Progressive Web App
+01:23:00 ✔️ Extra Class (useRef)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+01:29:00 ✔️ Cambiar estado a state de objeto y mostrarlo en pantalla (set useState {})
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+01:35:00 🍺 Nada interesante
