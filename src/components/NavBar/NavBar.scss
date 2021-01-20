@@ -1,0 +1,20 @@
+#NavBar {
+  position: fixed;
+  z-index: 1;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  font-weight: 500;
+  font-size: 16px;
+  margin-top: 5%;
+
+  p:first-of-type {
+    margin-right: 15px;
+    color: snow;
+  }
+
+  p:last-of-type {
+    font-weight: 700;
+    color: white;
+  }
+}

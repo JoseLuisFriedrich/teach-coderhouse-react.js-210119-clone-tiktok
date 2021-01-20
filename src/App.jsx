@@ -1,20 +1,43 @@
-import logo from './logo.svg'
+import Footer from 'components/Footer/Footer'
+import NavBar from 'components/NavBar/NavBar'
+import VideoListContainer from 'containers/VideoListContainer'
 import './App.scss'
 
 const App = () => {
   return (
-    <div className='App'>
-      <header className='App-header'>
-        <img src={logo} className='App-logo' alt='logo' />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a className='App-link' href='https://reactjs.org' target='_blank' rel='noopener noreferrer'>
-          Learn React
-        </a>
-      </header>
+    <div>
+      <NavBar />
+
+      <VideoListContainer />
+
+      <Footer />
     </div>
   )
 }
 
 export default App
+
+//Prerequisito
+
+// npm i sass react-ticker react-intersection-observer
+
+// Componentes
+// ProfileWidget                                        CartWidget
+// Icon
+// NavBar, Footer                                       NavBar
+// VideoListContainer -> Fetch                          ItemListContainer
+// VideoList -> map de los datos fetch                  ItemList
+// Video (VideoFooter, VideoSideBar) -> Video           Item
+
+// Relaciones
+
+// App
+// ✔️     NavBar
+// ✔️    VideoListContainer
+// ✔️         VideoList
+// ✔️             Video
+// ✔️                 ProfileWidget
+// ✔️                 Icon
+// ✔️     Footer
+// ✔️         Icon
+

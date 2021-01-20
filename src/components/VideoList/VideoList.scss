@@ -1,0 +1,20 @@
+#VideoList {
+  > div:nth-child(1) {
+    position: fixed;
+    width: 100vh;
+    height: 100vh;
+    pointer-events: none;
+    z-index: 999;
+  }
+
+  > div:nth-child(2) {
+    height: 100vh;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+    scroll-snap-destination: 0 0;
+    scroll-snap-type: y mandatory;
+    -ms-scroll-snap-destination: 0 0;
+    -ms-scroll-snap-type: y mandatory;
+    -webkit-overflow-scrolling: touch;
+  }
+}
